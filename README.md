@@ -27,4 +27,4 @@ Build a simple console-based to-do list manager that allows users to add, view, 
 # Library Management System
 Develop a system to manage books, borrowers, and transactions in a library. This comprehensive project involves data handling, user management, and transaction tracking.
 
-# Feel free to explore the code, documentation, and examples provided in each project. Your feedback and insights are greatly appreciated as I continue to refine and expand my skills in the dynamic field of C++ programming. Happy coding! 🚀💻
+Feel free to explore the code, documentation, and examples provided in each project. Your feedback and insights are greatly appreciated as I continue to refine and expand my skills in the dynamic field of C++ programming. Happy coding! 🚀💻
