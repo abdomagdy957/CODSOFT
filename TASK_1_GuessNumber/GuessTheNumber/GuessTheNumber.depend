@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720362513 source:c:\users\bor3y\onedrive\desktop\codesoft\task_1_guessnumber\guessthenumber\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+

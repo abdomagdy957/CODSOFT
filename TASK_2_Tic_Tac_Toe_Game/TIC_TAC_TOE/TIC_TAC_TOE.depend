@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1720389804 source:c:\users\bor3y\onedrive\desktop\codesoft\task_2_tic_tac_toe_game\tic_tac_toe\main.cpp
+	<iostream>
+	"gameFunctions.h"
+
+1720389845 source:c:\users\bor3y\onedrive\desktop\codesoft\task_2_tic_tac_toe_game\tic_tac_toe\gamefunctions.cpp
+	<iostream>
+	"gameFunctions.h"
+	<cstdlib>
+	<ctime>
+
+1720389787 c:\users\bor3y\onedrive\desktop\codesoft\task_2_tic_tac_toe_game\tic_tac_toe\gamefunctions.h
+
